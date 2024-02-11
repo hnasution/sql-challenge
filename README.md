@@ -6,7 +6,6 @@ To do a research project about people whom the company employed during the 1980s
 
 Data Modelling
 Inspect the CSV files, and then sketch an ERD of the tables using QuickDBD http://www.quickdatabasediagrams.com/
-![image info](images/Employee_ERD_with_command.png)
 
 Data Engineering
 1. Create a table schema for each of the six CSV files
